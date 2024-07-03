@@ -1,0 +1,129 @@
+C:\Users\E5021399\source\repos\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.exe
+C:\Users\E5021399\source\repos\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.deps.json
+C:\Users\E5021399\source\repos\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.runtimeconfig.json
+C:\Users\E5021399\source\repos\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.runtimeconfig.dev.json
+C:\Users\E5021399\source\repos\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.dll
+C:\Users\E5021399\source\repos\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.pdb
+C:\Users\E5021399\source\repos\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E5021399\source\repos\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.AssemblyInfoInputs.cache
+C:\Users\E5021399\source\repos\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.AssemblyInfo.cs
+C:\Users\E5021399\source\repos\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.CoreCompileInputs.cache
+C:\Users\E5021399\source\repos\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.dll
+C:\Users\E5021399\source\repos\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.pdb
+C:\Users\E5021399\source\repos\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.genruntimeconfig.cache
+C:\Users\E5021399\source\repos\Test_119\Test_119\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\E5021399\source\repos\Test_119\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\E5021399\source\repos\Test_119\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\E5021399\source\repos\Test_119\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\E5021399\source\repos\Test_119\Test_119\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\E5021399\source\repos\Test_119\Test_119\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\E5021399\source\repos\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.CopyComplete
+C:\Users\E5021399\source\repos\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.AssemblyReference.cache
+I:\will_be_deleted\snjay\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.exe
+I:\will_be_deleted\snjay\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.deps.json
+I:\will_be_deleted\snjay\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.runtimeconfig.json
+I:\will_be_deleted\snjay\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.runtimeconfig.dev.json
+I:\will_be_deleted\snjay\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.dll
+I:\will_be_deleted\snjay\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.pdb
+I:\will_be_deleted\snjay\Test_119\Test_119\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\will_be_deleted\snjay\Test_119\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\will_be_deleted\snjay\Test_119\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\will_be_deleted\snjay\Test_119\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\will_be_deleted\snjay\Test_119\Test_119\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\will_be_deleted\snjay\Test_119\Test_119\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\will_be_deleted\snjay\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.AssemblyReference.cache
+I:\will_be_deleted\snjay\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.GeneratedMSBuildEditorConfig.editorconfig
+I:\will_be_deleted\snjay\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.AssemblyInfoInputs.cache
+I:\will_be_deleted\snjay\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.AssemblyInfo.cs
+I:\will_be_deleted\snjay\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.CoreCompileInputs.cache
+I:\will_be_deleted\snjay\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.CopyComplete
+I:\will_be_deleted\snjay\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.dll
+I:\will_be_deleted\snjay\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.pdb
+I:\will_be_deleted\snjay\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.genruntimeconfig.cache
+D:\MPAL THINGS\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.exe
+D:\MPAL THINGS\Test_119\Test_119\bin\Debug\netcoreapp3.1\Settings.job
+D:\MPAL THINGS\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.deps.json
+D:\MPAL THINGS\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.runtimeconfig.json
+D:\MPAL THINGS\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.runtimeconfig.dev.json
+D:\MPAL THINGS\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.dll
+D:\MPAL THINGS\Test_119\Test_119\bin\Debug\netcoreapp3.1\Test_119.pdb
+D:\MPAL THINGS\Test_119\Test_119\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\MPAL THINGS\Test_119\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\MPAL THINGS\Test_119\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\MPAL THINGS\Test_119\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\MPAL THINGS\Test_119\Test_119\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MPAL THINGS\Test_119\Test_119\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MPAL THINGS\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.AssemblyReference.cache
+D:\MPAL THINGS\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPAL THINGS\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.AssemblyInfoInputs.cache
+D:\MPAL THINGS\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.AssemblyInfo.cs
+D:\MPAL THINGS\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.CoreCompileInputs.cache
+D:\MPAL THINGS\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.CopyComplete
+D:\MPAL THINGS\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.dll
+D:\MPAL THINGS\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.pdb
+D:\MPAL THINGS\Test_119\Test_119\obj\Debug\netcoreapp3.1\Test_119.genruntimeconfig.cache
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.exe
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Settings.job
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.deps.json
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.runtimeconfig.json
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.runtimeconfig.dev.json
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.dll
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.pdb
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.AssemblyReference.cache
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.AssemblyInfoInputs.cache
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.AssemblyInfo.cs
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.CoreCompileInputs.cache
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.CopyComplete
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.dll
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.pdb
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.genruntimeconfig.cache
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.exe
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Settings.job
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.deps.json
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.runtimeconfig.json
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.runtimeconfig.dev.json
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.dll
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.pdb
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.AssemblyReference.cache
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.GeneratedMSBuildEditorConfig.editorconfig
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.AssemblyInfoInputs.cache
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.AssemblyInfo.cs
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.CoreCompileInputs.cache
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.CopyComplete
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.dll
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.pdb
+D:\punya-webjob\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.genruntimeconfig.cache
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.exe
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Settings.job
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.deps.json
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.runtimeconfig.json
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.runtimeconfig.dev.json
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.dll
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\Test_119.pdb
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.AssemblyInfoInputs.cache
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.AssemblyInfo.cs
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.CoreCompileInputs.cache
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.csproj.CopyComplete
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.dll
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.pdb
+D:\TEAL-COE\Onpremise_20231226\Test_119_Hourly_Tracker\Test_119\obj\Debug\netcoreapp3.1\Test_119.genruntimeconfig.cache

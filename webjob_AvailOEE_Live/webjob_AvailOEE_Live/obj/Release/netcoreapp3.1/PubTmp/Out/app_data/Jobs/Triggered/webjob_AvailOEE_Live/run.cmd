@@ -1,0 +1,1 @@
+dotnet webjob_AvailOEE_Live.dll %*

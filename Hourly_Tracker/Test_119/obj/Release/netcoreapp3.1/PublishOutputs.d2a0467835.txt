@@ -1,0 +1,12 @@
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Test_119\Settings.job
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Test_119\Test_119.exe
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Test_119\Test_119.dll
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Test_119\Test_119.deps.json
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Test_119\Test_119.runtimeconfig.json
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Test_119\Test_119.pdb
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Test_119\System.Data.SqlClient.dll
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Test_119\runtimes\win-arm64\native\sni.dll
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Test_119\runtimes\win-x64\native\sni.dll
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Test_119\runtimes\win-x86\native\sni.dll
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Test_119\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MPAL THINGS\Test_119_Hourly_Tracker\Test_119\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\Test_119\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

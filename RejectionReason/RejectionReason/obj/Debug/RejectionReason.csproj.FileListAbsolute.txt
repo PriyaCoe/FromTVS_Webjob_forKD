@@ -1,0 +1,8 @@
+D:\TEAL-COE\Onpremise_20220928\webjobs\RejectionReason\RejectionReason\RejectionReason\bin\Debug\Settings.job
+D:\TEAL-COE\Onpremise_20220928\webjobs\RejectionReason\RejectionReason\RejectionReason\bin\Debug\RejectionReason.exe.config
+D:\TEAL-COE\Onpremise_20220928\webjobs\RejectionReason\RejectionReason\RejectionReason\bin\Debug\RejectionReason.exe
+D:\TEAL-COE\Onpremise_20220928\webjobs\RejectionReason\RejectionReason\RejectionReason\bin\Debug\RejectionReason.pdb
+D:\TEAL-COE\Onpremise_20220928\webjobs\RejectionReason\RejectionReason\RejectionReason\obj\Debug\RejectionReason.csproj.AssemblyReference.cache
+D:\TEAL-COE\Onpremise_20220928\webjobs\RejectionReason\RejectionReason\RejectionReason\obj\Debug\RejectionReason.csproj.CoreCompileInputs.cache
+D:\TEAL-COE\Onpremise_20220928\webjobs\RejectionReason\RejectionReason\RejectionReason\obj\Debug\RejectionReason.exe
+D:\TEAL-COE\Onpremise_20220928\webjobs\RejectionReason\RejectionReason\RejectionReason\obj\Debug\RejectionReason.pdb

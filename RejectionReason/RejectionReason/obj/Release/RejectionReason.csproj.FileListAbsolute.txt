@@ -1,0 +1,39 @@
+C:\Users\e5021144\source\repos\RejectionReason\RejectionReason\obj\Release\RejectionReason.csproj.CoreCompileInputs.cache
+C:\Users\e5021144\source\repos\RejectionReason\RejectionReason\bin\Release\Settings.job
+C:\Users\e5021144\source\repos\RejectionReason\RejectionReason\bin\Release\RejectionReason.exe.config
+C:\Users\e5021144\source\repos\RejectionReason\RejectionReason\bin\Release\RejectionReason.exe
+C:\Users\e5021144\source\repos\RejectionReason\RejectionReason\bin\Release\RejectionReason.pdb
+C:\Users\e5021144\source\repos\RejectionReason\RejectionReason\obj\Release\RejectionReason.exe
+C:\Users\e5021144\source\repos\RejectionReason\RejectionReason\obj\Release\RejectionReason.pdb
+C:\Users\e5021144\source\repos\RejectionReason\RejectionReason\obj\Release\RejectionReason.csproj.AssemblyReference.cache
+D:\VS codes\webJob\RejectionReason\RejectionReason\bin\Release\Settings.job
+D:\VS codes\webJob\RejectionReason\RejectionReason\bin\Release\RejectionReason.exe.config
+D:\VS codes\webJob\RejectionReason\RejectionReason\bin\Release\RejectionReason.exe
+D:\VS codes\webJob\RejectionReason\RejectionReason\bin\Release\RejectionReason.pdb
+D:\VS codes\webJob\RejectionReason\RejectionReason\obj\Release\RejectionReason.csproj.AssemblyReference.cache
+D:\VS codes\webJob\RejectionReason\RejectionReason\obj\Release\RejectionReason.csproj.CoreCompileInputs.cache
+D:\VS codes\webJob\RejectionReason\RejectionReason\obj\Release\RejectionReason.exe
+D:\VS codes\webJob\RejectionReason\RejectionReason\obj\Release\RejectionReason.pdb
+F:\CODE\backup_code\webjobUpdated\RejectionReason\RejectionReason\bin\Release\Settings.job
+F:\CODE\backup_code\webjobUpdated\RejectionReason\RejectionReason\bin\Release\RejectionReason.exe.config
+F:\CODE\backup_code\webjobUpdated\RejectionReason\RejectionReason\bin\Release\RejectionReason.exe
+F:\CODE\backup_code\webjobUpdated\RejectionReason\RejectionReason\bin\Release\RejectionReason.pdb
+F:\CODE\backup_code\webjobUpdated\RejectionReason\RejectionReason\obj\Release\RejectionReason.csproj.AssemblyReference.cache
+F:\CODE\backup_code\webjobUpdated\RejectionReason\RejectionReason\obj\Release\RejectionReason.csproj.CoreCompileInputs.cache
+F:\CODE\backup_code\webjobUpdated\RejectionReason\RejectionReason\obj\Release\RejectionReason.exe
+F:\CODE\backup_code\webjobUpdated\RejectionReason\RejectionReason\obj\Release\RejectionReason.pdb
+D:\TEAL-COE\Onpremise_20220928\webjobs\RejectionReason\RejectionReason\RejectionReason\bin\Release\Settings.job
+D:\TEAL-COE\Onpremise_20220928\webjobs\RejectionReason\RejectionReason\RejectionReason\bin\Release\RejectionReason.exe.config
+D:\TEAL-COE\Onpremise_20220928\webjobs\RejectionReason\RejectionReason\RejectionReason\bin\Release\RejectionReason.exe
+D:\TEAL-COE\Onpremise_20220928\webjobs\RejectionReason\RejectionReason\RejectionReason\bin\Release\RejectionReason.pdb
+D:\TEAL-COE\Onpremise_20220928\webjobs\RejectionReason\RejectionReason\RejectionReason\obj\Release\RejectionReason.csproj.CoreCompileInputs.cache
+D:\TEAL-COE\Onpremise_20220928\webjobs\RejectionReason\RejectionReason\RejectionReason\obj\Release\RejectionReason.exe
+D:\TEAL-COE\Onpremise_20220928\webjobs\RejectionReason\RejectionReason\RejectionReason\obj\Release\RejectionReason.pdb
+D:\TEAL-COE\Onpremise_20231226\RejectionReason\RejectionReason\RejectionReason\bin\Release\Settings.job
+D:\TEAL-COE\Onpremise_20231226\RejectionReason\RejectionReason\RejectionReason\bin\Release\RejectionReason.exe.config
+D:\TEAL-COE\Onpremise_20231226\RejectionReason\RejectionReason\RejectionReason\bin\Release\RejectionReason.exe
+D:\TEAL-COE\Onpremise_20231226\RejectionReason\RejectionReason\RejectionReason\bin\Release\RejectionReason.pdb
+D:\TEAL-COE\Onpremise_20231226\RejectionReason\RejectionReason\RejectionReason\obj\Release\RejectionReason.csproj.AssemblyReference.cache
+D:\TEAL-COE\Onpremise_20231226\RejectionReason\RejectionReason\RejectionReason\obj\Release\RejectionReason.csproj.CoreCompileInputs.cache
+D:\TEAL-COE\Onpremise_20231226\RejectionReason\RejectionReason\RejectionReason\obj\Release\RejectionReason.exe
+D:\TEAL-COE\Onpremise_20231226\RejectionReason\RejectionReason\RejectionReason\obj\Release\RejectionReason.pdb
